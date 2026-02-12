@@ -48,4 +48,17 @@
     padding: 6px 10px;
     border-radius: 34px;
   }
+  .paddingXl {
+    padding: 60px 0;
+  }
+  #imagesBG {
+    background: url('../images/galaxy-s24-highlights-galaxy-offers-trade-in-removebg-preview\ 1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #eeeeee;
+    opacity: 0.9;
+  }
+  .widthsCustoms {
+    width: 100%;
+  }
 }
